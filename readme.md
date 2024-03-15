@@ -10,3 +10,5 @@
 ## IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
 
+[![Nagaraj A github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagaraj-Dev01&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
